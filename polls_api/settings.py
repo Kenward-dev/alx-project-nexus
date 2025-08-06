@@ -210,4 +210,4 @@ DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')
 
 AUTH_USER_MODEL = 'users.User'
 
-FRONTEND_URL = "http://localhost:8000"
+FRONTEND_URL = config('FE_URL')
