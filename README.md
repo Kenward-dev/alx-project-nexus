@@ -58,7 +58,6 @@ A simple RESTful API built with Django REST Framework that allows authenticated 
    ```bash
    git clone https://github.com/Kenward-dev/alx-project-nexus.git
    cd alx-project-nexus
-````
 
 2. **Install dependencies**
 
