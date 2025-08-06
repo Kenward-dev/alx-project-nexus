@@ -206,3 +206,7 @@ DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')
 AUTH_USER_MODEL = 'users.User'
 
 FRONTEND_URL = config('FE_URL')
+
+CORS_ALLOWED_ORIGINS = [
+    "https://sudden-erica-kenward-9447691a.koyeb.app"
+]
