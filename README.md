@@ -2,7 +2,7 @@
 
 A simple RESTful API built with Django REST Framework that allows authenticated users to create, publish, and vote on polls.
 
-**🔗 Live URL:** [https://sudden-erica-kenward-9447691a.koyeb.app](https://sudden-erica-kenward-9447691a.koyeb.app)  
+**🔗 Live URL:** [https://sudden-erica-kenward-9447691a.koyeb.app/api/v1/docs](https://sudden-erica-kenward-9447691a.koyeb.app/api/v1/docs)  
 **📦 GitHub Repo:** [Kenward-dev/alx-project-nexus](https://github.com/Kenward-dev/alx-project-nexus/)
 
 ---
